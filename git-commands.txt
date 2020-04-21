@@ -1,0 +1,31 @@
+git clone <url>
+
+rm -rf <dirname> // to delete old ver dirname//
+
+ls //for open list//
+
+touch <file name.extension> //to create a file//
+
+atom . //text editor//
+
+git add <file name> // to save the version//
+
+git commit -m "message" //to take a snap//
+
+git status //to get the current status//
+
+git push //to push the file in my github acc//
+
+git pull //to download the latest ver from github//
+
+!!add the file before commit!!
+
+git commit -m "fix merge conflicts"
+
+git log //to get version history
+
+git reset:
+    git reset --hard <commit(hash)
+    git reset --hard origin/master
+
+start <filename.ex> //to open the file//
