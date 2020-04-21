@@ -5,12 +5,12 @@ h1 {
     border: 2px solid black;
     border-collapse: collapse;
     width: 50%
+    font-family: Arial;
   }
 th, td{
     border: 1px solid black;
     padding: 10px;
     text-align: center;
-    font-family: Arial;
   }
   th {
     background-color: lightgreen;
