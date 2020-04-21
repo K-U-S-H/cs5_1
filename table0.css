@@ -10,10 +10,8 @@ th, td{
     border: 1px solid black;
     padding: 10px;
     text-align: center;
+    font-family: Arial;
   }
   th {
     background-color: lightgreen;
   }
-tr {
-  font-family: Arial;
-}
