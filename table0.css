@@ -4,7 +4,8 @@ h1 {
   table {
     border: 2px solid black;
     border-collapse: collapse;
-    width: 50%
+    width: 50%;
+    font-family: Arial;
   }
 th, td{
     border: 1px solid black;
